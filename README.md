@@ -8,7 +8,7 @@ It contains contact information, a profile image, a brief biography and a showca
 
 ## Installing / Getting started
 
-Hosted by Github Pages. The application loads in the web browser. All files available to clone / download from Thom Willims' GitHub repo. 
+Hosted by Github Pages. The application loads in the web browser. Repo available to clone / download from Thom Willims' GitHub repo. 
 
 ### Initial Configuration
 
@@ -19,7 +19,7 @@ N/A Application should load in any universal browser.
 To clone this template, or develop further from this repo, please head to GitHub and follow these steps:
 
 ```shell
-git clone https://github.com/ThomWilliams/updated-portfolio-tew
+git clone https://github.com/ThomWilliams/new-portfolio-tew
 cd updated-portfolio-tew
 code .
 ```
@@ -36,7 +36,7 @@ Once opened in any browser such as Chrome, the styled html page for Thom William
 
 All developments by Thom Williams to the main branch. Deployed on Git Hub pages to the following address: 
 
-[Github Pages](https://thomwilliams.github.io/updated-portfolio-tew/)
+[Github Pages](https://thomwilliams.github.io/new-portfolio-tew/)
 
 
 ## Features
@@ -58,9 +58,9 @@ Key features include:
 
 ## Links
 
-- Project homepage: [GitHub](https://thomwilliams.github.io/updated-portfolio-tew/)
-- Repository: [GitHub](https://github.com/ThomWilliams/updated-portfolio-tew)
-- Issue tracker: [GitHub](https://github.com/ThomWilliams/updated-portfolio-tew/issues)
+- Project homepage: [GitHub](https://thomwilliams.github.io/new-portfolio-tew/)
+- Repository: [GitHub](https://github.com/ThomWilliams/new-portfolio-tew)
+- Issue tracker: [GitHub](https://github.com/ThomWilliams/new-portfolio-tew/issues)
   - In case of sensitive bugs like security vulnerabilities, please contact thomwilliams1990@gmail.com. We value your effort to improve the security and privacy of this project.
 - Related projects: [GitHub](https://github.com/ThomWilliams)
 
