@@ -283,6 +283,16 @@ aside h2 {
     background-size: cover;
 }
 
+.application-6-pic {
+    background-image: url(../images/application-6-pic.png);
+    background-size: cover;
+}
+
+.application-7-pic {
+    background-image: url(../images/application-7-pic.png);
+    background-size: cover;
+}
+
 .linkedIn-pic {
     max-width: 45px;
     border-radius: 25px;
