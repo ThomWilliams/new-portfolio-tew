@@ -4,7 +4,7 @@ Thom Williams Web Developer Portfolio
 
 Updated Web development portfolio for Thom Williams. It is designed to showcase his portfolio of websites and applications designed over the course of the University of Manchetser Coding Bootcamp course. 
 
-It contains contact information, a profile image, a brief biography and a showcase of his web development projects.
+It contains contact information, a profile image, a brief biography, an updated CV and a showcase of his web development projects.
 
 ## Installing / Getting started
 
@@ -45,10 +45,10 @@ This website is intended as a professional portfolio to display the web developm
 
 Key features include:
 
-* There is a navigation bar with internal links to its main sections situated at the top of the page. Pseudocode is used to highlight links in blue when hovered over. 
+* There is a navigation bar with internal links to its main sections situated at the top of the page. Highlighted links in blue when hovered over. 
 * There is a custom designed logo and hero banner images.
 * Thom's website portfolio is illustated in the "Examples of My Work", with the most recent project illustrated with a larger flex box at the top. Pseudocode functions enlarge and highlights each projects when hovered over. Thom's first project is currently linked, with placeholder images holding the positions for future projects.
-* A "Contact-Sidebar" aside offers useful contact information and a profile image of Thom Willimas.
+* A Contact Sidebar aside offers useful contact information and a profile image of Thom Willimas.
 * The profile image enlarges when clicked.
 * The About Me column offers a short introduction to Thom Willimas.
 * CSS Variables have been used to defined a consistent colour scheme throughout. The colour scheme chosen passes accessibility contrast standards.
@@ -77,9 +77,9 @@ Steps to meet accessibility standards include:
 
 A screenshot of both the desktop and mobile versions have been provided Available in assets Folder: 
 
-Mobile version: ![Mobile Screenshot](Assets/Screenshots_GIF/Portfolio_Screenshot_desktop.png)
+Mobile version: ![Mobile Screenshot](Assets/Screenshots_GIF/portfolio_mobile.png)
 
-Desktop version: ![Desktop Screenshot](Assets/Screenshots_GIF/portfolio_screenshot_mobile.png)
+Desktop version: ![Desktop Screenshot](Assets/Screenshots_GIF/portfolio_desktop.png)
 
 
 
