@@ -161,6 +161,7 @@ aside h2 {
 .sidebar-item ul {
     list-style-position: inside;
     padding-left: 5px;
+       list-style-type: none;
 }
 
 /*profile image of Thom Williams*/
@@ -302,7 +303,7 @@ aside h2 {
 }
 
 .GitHub-pic {
-    max-width: 45px;
+    max-width: 50px;
     border-radius: 25px;
 }
 
